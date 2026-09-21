@@ -1,5 +1,5 @@
 
-using System.Reflection.Metadata.Ecma335;
+
 using Microsoft.AspNetCore.Mvc;
 
 namespace MiniChallenge11_APIBeginningsCThomason.Controllers
@@ -39,7 +39,7 @@ namespace MiniChallenge11_APIBeginningsCThomason.Controllers
 
         public ActionResult<string> wakeUp(string name, string time)
         {
-            return Ok($"{name} woke up at {time}"; 
+            return Ok($"{name} woke up at {time}"); 
         } //end of method wakeUp
 
         [HttpGet("comparison/{num1}/{num2}")]
