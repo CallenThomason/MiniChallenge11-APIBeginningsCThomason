@@ -1,0 +1,6 @@
+@MiniChallenge11_APIBeginningsCThomason_HostAddress = http://localhost:5007
+
+GET {{MiniChallenge11_APIBeginningsCThomason_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
