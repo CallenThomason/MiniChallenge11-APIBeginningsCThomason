@@ -18,7 +18,7 @@ namespace MiniChallenge11_APIBeginningsCThomason.Controllers
         return $"Hello, {name}"; 
     }//end of method GreetUser
     [HttpGet]
-    [Route("addtwonumnbers/{num1}/{num2}")]
+    [Route("addtwonumbers/{num1}/{num2}")]
     public string addTwoNumbers(string num1, string num2)
         {
             

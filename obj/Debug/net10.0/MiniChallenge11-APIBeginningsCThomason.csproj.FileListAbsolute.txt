@@ -31,3 +31,4 @@ C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\MiniChallenge11-APIBeginnin
 C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\MiniChallenge11-APIBeginningsCThomason\obj\Debug\net10.0\MiniChallenge11-APIBeginningsCThomason.pdb
 C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\MiniChallenge11-APIBeginningsCThomason\obj\Debug\net10.0\MiniChallenge11-APIBeginningsCThomason.genruntimeconfig.cache
 C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\MiniChallenge11-APIBeginningsCThomason\obj\Debug\net10.0\ref\MiniChallenge11-APIBeginningsCThomason.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\MiniChallenge11-APIBeginningsCThomason\obj\Debug\net10.0\MiniChallenge11-APIBeginningsCThomason.sourcelink.json

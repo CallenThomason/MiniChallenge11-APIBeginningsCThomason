@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniChallenge11-APIBeginningsCThomason")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1a3d9028c4de77a06d79a003be193c72164a58c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniChallenge11-APIBeginningsCThomason")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniChallenge11-APIBeginningsCThomason")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
